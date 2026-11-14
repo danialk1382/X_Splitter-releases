@@ -1,0 +1,11 @@
+{
+  "version": "0.1.13",
+  "notes": "IP extractor switch on Domain and Exclude nodes (matches by address without changing Windows DNS). DNS: no longer left on 127.0.0.1 after a restart, only taken while a route that needs it is connected, and lookups no longer wait for a server that does not answer. A site behind a shared CDN address stays in Exclude. Hover a node for 2 seconds to see what it does. Network tab marks Windows system processes and VPN apps; system processes can only be speed-limited, and a VPN app is never sent into its own tunnel. Faster service start.",
+  "pub_date": "2026-11-14T10:47:54.010Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOHdiNXRkc0xGS3oxQWpndGhoMzF4ODZiNzNuZDhBbUthckl2NktaZ3UwU29aaVNVYmR5VHRxVDFBdjNIZ1hwTjZhWklFek9GMWp0Q29CbmlLbTI3WHFPNVlRSUVGc1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUzMjczCWZpbGU6WFNwbGl0dGVyXzAuMS4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEzCk4rUFFiaW5xRG5QQ2s0ZWE5NCt2VlYwU2JJckdVMTFzREZ2bDRtVHh1V3JNSVl1a25jZ0Vrc25HTm9FSndVYklTWVo1N3FYS2p4NGZ5YU5CSjhHY0NRPT0K",
+      "url": "https://raw.githubusercontent.com/danialk1382/X_Splitter-releases/main/XSplitter_0.1.13_x64-setup.exe"
+    }
+  }
+}
